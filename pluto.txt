@@ -1,4 +1,3 @@
 Is it a planet?
 YES!!!
-change only on desktop
-
+fixed the problem.
